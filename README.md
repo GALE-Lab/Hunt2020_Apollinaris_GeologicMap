@@ -6,5 +6,6 @@ Shapefiles contain information to reproduce the geologic map of preserved dunes 
 This repository includes a zipped folder with a 2 polyline shapefiles, and 1 polygon shapefile archiving measurements of transverse aeolian ridges, geologic contacts, dune crestlines, yardang trends, and geologic units in the region of preserved dunes in Apollinaris Sulci, Mars. 
 
 This repository also includes a digital elevation model (DEM), digitally rectified graphic (DRG), and associated projection and world information. The DEM/DRG covers the paleodunes and was used to measure slopes and heights of the paleobedforms. 
+** DEM and associated files have been moved to Zenodo to accomodate the large total file size (~300 MB). You will find the DEM and associated products here: https://doi.org/10.5281/zenodo.5618662
 
 For more information or to inquire about this work please contact the corresponding author (Day) at daym@epss.ucla.edu 
